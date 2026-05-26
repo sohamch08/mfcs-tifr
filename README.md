@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mfcs.pdf">
-    <img src="https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download PDF">
+    <img src="https://github.com/sohamch08/mfcs-tifr/releases/tag/v1.0" alt="Download PDF">
   </a>
   <a href="https://sohamch08.github.io">
     <img src="https://img.shields.io/badge/Website-sohamch08.github.io-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
